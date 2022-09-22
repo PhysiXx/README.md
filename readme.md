@@ -1,15 +1,7 @@
-Hello world, I'm Dominic!
-Welcome to my github :)
+Hey there, my name is Dominic and I'm a Software Engineer who works specifically on Game Development.
 
-This is where I publish various programming projects or programs that I've been working with.
-My specialty is in development: softwares, websites, and games
+This is where I publish various programming projects that I have coordinated with teammates or otherwise.
 
-Experience:
-    Java - Class Certified (CS@SC)
-    Python - Class Certified (CS@SC)
-    C# - 5 year experience
-    Git User
-    Student
+C#, Java, Python, HTML/CSS
 
-
-exec readme
+Have a good one!
